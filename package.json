@@ -1,0 +1,57 @@
+{
+  "name": "jsvjp",
+  "version": "2.0.1",
+  "description": "jsvjp provides functions to interact with the DOM",
+  "main": "/dist/Utils/utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongnguyen321/jsvjp.git"
+  },
+  "keywords": [
+    "import",
+    "export",
+    "const",
+    "let",
+    "function",
+    "typeof",
+    "document",
+    "querySelector",
+    "querySelectorAll",
+    "Array.from",
+    "try-catch",
+    "JSON.parse",
+    "JSON.stringify",
+    "RegExp",
+    "replace",
+    "if-else",
+    "throw",
+    "instanceof",
+    "classList",
+    "addEventListener",
+    "Math.floor",
+    "random",
+    "body",
+    "pre",
+    "code",
+    "innerText",
+    "innerHTML",
+    "style",
+    "color",
+    "span",
+    "Array.isArray",
+    "Object.keys",
+    "join",
+    "test",
+    "pop",
+    "hasOwnProperty"
+  ],
+  "author": "duongnguyen321",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/duongnguyen321/jsvjp/issues"
+  },
+  "homepage": "https://github.com/duongnguyen321/jsvjp#readme"
+}
