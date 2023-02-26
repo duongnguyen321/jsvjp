@@ -1,6 +1,6 @@
 {
   "name": "jsvjp",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "jsvjp provides functions to interact with the DOM",
   "main": "/dist/Utils/utils.js",
   "scripts": {
