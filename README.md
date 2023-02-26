@@ -16,7 +16,15 @@ Import the functions you need from the library:
 
 Use the functions to manipulate the DOM:
 
-    	`HTML("div", "example", "This is the content of a new div element"); 		HTML("div", "example2", "This is the content of a new div element with red color"); 		CSS("div.example2", "color", "red"); 		const AllElement = $$("div"); 		const firstElement = $("div.example"); 		console.log(AllElement); 		console.log(firstElement); 		log(log); 		log('This is a log message');`
+    	`HTML("div", "example", "This is the content of a new div element");
+        HTML("div", "example2", "This is the content of a new div element with red color"); 		        
+        CSS("div.example2", "color", "red");
+        const AllElement = $$("div");
+        const firstElement = $("div.example");
+        console.log(AllElement);
+        console.log(firstElement);
+        log(log);
+        log('This is a log message');`
 
 ## Functions
 
