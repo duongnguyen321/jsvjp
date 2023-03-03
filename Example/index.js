@@ -1,4 +1,4 @@
-import { $, $$, HTML, CSS, log } from "../dist/Utils/utils.js";
+import { $, $$, HTML, CSS, log } from "../dist/utils/utils.js";
 /*
 1.Sử dụng hàm $ để tìm phần tử HTML đầu tiên khớp với CSS selector:
 const firstElement = $("h1");
