@@ -23,6 +23,7 @@ log([1, 2, 3]); // Hiển thị một mảng các số trong một thẻ pre có
 HTML("div", "example", "Đây là nội dung của phần tử div mới");
 HTML("div", "example2", "Đây là nội dung của phần tử div mới có màu đỏ");
 CSS("div.example2", "color", "red");
+HTML("a", "link", "đây là link dẫn tới github", { href: "https://github.com/duongnguyen321/jsvjp", target: "_blank" });
 const AllElement = $$("div");
 const firstElement = $("div.example");
 console.log(AllElement)
