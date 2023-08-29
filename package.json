@@ -2,7 +2,7 @@
   "name": "jsvjp",
   "version": "0.1.0",
   "description": "jsvjp provides functions to interact with the DOM",
-  "main": "./index.min.js",
+  "main": "./index.js",
   "scripts": {
     "start": "tsc --watch"
   },

@@ -1,7 +1,5 @@
-// import { $, $$, HTML, CSS, randomColor } from "https://unpkg.com/jsvjp";
-// import log from "https://unpkg.com/jsvjp";
-import { HTML, CSS, randomColor } from "../index.min.js";
-import log from "../index.min.js";
+// import { log, $, $$, HTML, CSS, randomColor } from "https://unpkg.com/jsvjp";
+import {log, HTML, CSS, randomColor } from "../index.js";
 
 HTML("h1", "success", "Welcome to jsvjp!");
 

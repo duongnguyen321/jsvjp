@@ -2,12 +2,12 @@
  * @default
  * @param {...*} dataArgs - Any data to log
  */
-declare function log(...dataArgs: any[]): void;
+export declare function log(...dataArgs: any[]): void;
 
 /**
  * @returns {string} - A random color from the colors list
  */
-declare function randomColor(): String;
+export declare function randomColor(): String;
 
 /**
  * @param {string} selector - A CSS selector to search for an element
@@ -15,7 +15,7 @@ declare function randomColor(): String;
  * @returns {Element} The element that was found
  * @throws {Error} If no element is found and no error message is provided
  */
-declare function $(selector: string, errorMessage?: string): Element;
+export declare function $(selector: string, errorMessage?: string): Element;
 
 /**
  * @param {string} selector - A CSS selector to search for an element
@@ -23,7 +23,7 @@ declare function $(selector: string, errorMessage?: string): Element;
  * @returns {Array} - The Array from element that was found
  * @throws {Error} - If no element is found and no error message is provided
  */
-declare function $$(selector: string, errorMessage?: string): Element[];
+export declare function $$(selector: string, errorMessage?: string): Element[];
 
 /**
  * @param {string} tagName - The tag name of the element to create
@@ -32,7 +32,7 @@ declare function $$(selector: string, errorMessage?: string): Element[];
  * @param {object=} options - Any additional options to apply to the element
  * @returns {HTMLElement} - The element that was created
  */
-declare function HTML(
+export declare function HTML(
   tagName: string,
   className?: string,
   text?: string,
@@ -44,7 +44,7 @@ declare function HTML(
  * @param {object=} options - Options to be passed to the selector
  * @returns {Element} - A Element after styled
  */
-declare function CSS(
+export declare function CSS(
   selector: string,
   options: Record<string, string>
 ): Element;
