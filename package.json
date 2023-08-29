@@ -1,0 +1,28 @@
+{
+  "name": "jsvjp",
+  "version": "0.1.0",
+  "description": "jsvjp provides functions to interact with the DOM",
+  "main": "./index.min.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongnguyen321/jsvjp.git"
+  },
+  "keywords": [
+    "console.log",
+    "theme",
+    "jsvjp",
+    "UI"
+  ],
+  "author": "duongnguyen321",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duongnguyen321/jsvjp/issues"
+  },
+  "homepage": "https://github.com/duongnguyen321/jsvjp#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
+}
