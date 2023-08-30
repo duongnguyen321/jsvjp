@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/duongnguyen321/jsvjp/issues"
   },
-  "homepage": "https://github.com/duongnguyen321/jsvjp#readme",
-  "devDependencies": {
-    "tsc": "^2.0.4"
-  }
+  "homepage": "https://github.com/duongnguyen321/jsvjp#readme"
 }
